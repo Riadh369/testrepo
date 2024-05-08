@@ -1,2 +1,2 @@
 # testrepo
-It's markdown file in this reposiory
+It's markdown file in this repository
